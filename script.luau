@@ -2,12 +2,6 @@
 
 	Rayfield Interface Suite MODDED
 	by s490-debug
-
-	shlex  | Designing + Programming
-	iRay   | Programming
-	Max    | Programming
-	Damian | Programming
-
 ]]
 
 -- making undetectable by console detection
